@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const ThemeToggle = () => {
-  return (
-    <div>ThemeToggle</div>
-  )
-}
+  return <div>ThemeToggle</div>;
+};
 
-export default ThemeToggle
+export default ThemeToggle;

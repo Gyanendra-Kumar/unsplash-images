@@ -1,4 +1,4 @@
-import {Gallery, SearchForm, ThemeToggle} from "./components";
+import { Gallery, SearchForm, ThemeToggle } from "./components";
 
 const App = () => {
   return (
